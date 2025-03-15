@@ -1,7 +1,7 @@
 print ("Hello, world!)
 
 name = "my name is Aliesha" #String
-age = i am 14 # Integer
+age = 14 # Integer
 height = 5.3 # Float
 
 print ("Name:" , name)
